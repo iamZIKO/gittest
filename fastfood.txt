@@ -2,9 +2,6 @@ Burger
 Pizza
 Kebab
 shwerma 
-<<<<<<< HEAD
 line5
 line6
 line7
-=======
->>>>>>> parent of 869e3dc... added one line in each file
