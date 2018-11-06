@@ -3,7 +3,11 @@ Cat
 Eagle
 Turtle
 Parrot
+<<<<<<< HEAD
 Frog
 line6 
 line7
 line8
+=======
+Frog
+>>>>>>> parent of 869e3dc... added one line in each file

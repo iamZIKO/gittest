@@ -3,7 +3,11 @@ Dubai
 Damascus
 Antwerpen
 Brussels
+<<<<<<< HEAD
 London
 line7
 line8
 line9
+=======
+London
+>>>>>>> parent of 869e3dc... added one line in each file
