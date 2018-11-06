@@ -10,8 +10,16 @@ It is an online chaotic repository we created to test and get used to Github
 
 - It is time for JS.
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 Don't Forget To Check The Installation Part Every Time You Work On A New Project:
 
 ```sh
 $ npm install
 ```
+
+
+
+Thanks!
